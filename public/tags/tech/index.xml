@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on The Blacklist</title>
+    <link>http://localhost:1313/tags/tech/</link>
+    <description>Recent content in Tech on The Blacklist</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting Reads - 2024-11-04~2024-11-10</title>
+      <link>http://localhost:1313/posts/2024-11-10-links1/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-10-links1/</guid>
+      <description>&lt;h3 id=&#34;tech&#34;&gt;Tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://htmlforpeople.com/&#34;&gt;HTML is for people&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://https://www.theguardian.com/us-news/2024/nov/08/project-2025-kevin-roberts-book-burning-fbi-new-york-times?CMP=share_btn_url&#34;&gt;Project 2025 chief’s book urges ‘burning’ of FBI, New York Times and Boy Scouts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://fedi.tips/&#34;&gt;Fedi.Tips&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.privacytools.io/guides/8-simple-stupid-flat-file-cms-free-user-friendly-and-open-source&#34;&gt;8 Simple Stupid Flat File CMS: Free, User-Friendly and Open Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/romkatv/powerlevel10k&#34;&gt;Powerlevel10k&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/&#34;&gt;smashingmagazine.com: build-blog-jekyll-github-pages&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
