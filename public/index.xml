@@ -23,6 +23,27 @@
       <description>&lt;h1 id=&#34;headers&#34;&gt;Headers&lt;/h1&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# h1 Heading 8-)&#xA;## h2 Heading&#xA;### h3 Heading&#xA;#### h4 Heading&#xA;##### h5 Heading&#xA;###### h6 Heading&#xA;&#xA;Alternatively, for H1 and H2, an underline-ish style:&#xA;&#xA;Alt-H1&#xA;======&#xA;&#xA;Alt-H2&#xA;------&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;h1-heading-8-&#34;&gt;h1 Heading 8-)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;&#xA;&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;&#xA;&lt;h1 id=&#34;alt-h1&#34;&gt;Alt-H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;alt-h2&#34;&gt;Alt-H2&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h1&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Emphasis, aka italics, with *asterisks* or _underscores_.&#xA;&#xA;Strong emphasis, aka bold, with **asterisks** or __underscores__.&#xA;&#xA;Combined emphasis with **asterisks and _underscores_**.&#xA;&#xA;Strikethrough uses two tildes. ~~Scratch this.~~&#xA;&#xA;**This is bold text**&#xA;&#xA;__This is bold text__&#xA;&#xA;*This is italic text*&#xA;&#xA;_This is italic text_&#xA;&#xA;~~Strikethrough~~&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Michigan Sports Teams</title>
+      <link>http://localhost:1313/posts/2024-11-26-michigan_sports/</link>
+      <pubDate>Fri, 13 Dec 2024 19:09:56 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-26-michigan_sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chromebook</title>
+      <link>http://localhost:1313/posts/2024-11-11-chromebook/</link>
+      <pubDate>Fri, 13 Dec 2024 18:37:14 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-11-chromebook/</guid>
+      <description>&lt;p&gt;After years as a dedicated mac person, going back to os9. I have moved over to a Chromebook / Pixel setup for daily driving&lt;/p&gt;&#xA;&lt;p&gt;I saved quite a bit of coin on the new Laptop and have a great Dev environment with Crostini.&lt;/p&gt;&#xA;&lt;h2 id=&#34;chromebook-stats&#34;&gt;Chromebook Stats&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Device: Acer Chromebook 516 GE&#xA;&lt;ul&gt;&#xA;&lt;li&gt;16-inch 120Hz QHD+ (2560 x 1600) IPS display&lt;/li&gt;&#xA;&lt;li&gt;Wi-Fi 6E&lt;/li&gt;&#xA;&lt;li&gt;16 GB, LPDDR4X&lt;/li&gt;&#xA;&lt;li&gt;Intel® Core™ i5-1240P processor Dodeca-core 1.70 GHz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;OS: Google ChromeOS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;linux-stuff&#34;&gt;Linux stuff&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linux Version: Linux penguin 6.6.46&lt;/li&gt;&#xA;&lt;li&gt;Shell: zsh / OhMyZsh&lt;/li&gt;&#xA;&lt;li&gt;Theme: powerlevel 10k&lt;/li&gt;&#xA;&lt;li&gt;PHP 8.2.24&lt;/li&gt;&#xA;&lt;li&gt;Python 3.11.2A&lt;/li&gt;&#xA;&lt;li&gt;git version 2.39.5&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;         _,met$$$$$gg.           blk@penguin&#xA;      ,g$$$$$$$$$$$$$$$P.        OS: Debian &#xA;    ,g$$P&amp;#34;&amp;#34;       &amp;#34;&amp;#34;&amp;#34;Y$$.&amp;#34;.      Kernel: x86_64 Linux 6.6.46-04024-g9e7e147b4900&#xA;   ,$$P&amp;#39;              `$$$.      Uptime: 3d 20h 50m&#xA;  &amp;#39;,$$P       ,ggs.     `$$b:    Packages: 646&#xA;  `d$$&amp;#39;     ,$P&amp;#34;&amp;#39;   .    $$$     Shell: zsh 5.9&#xA;   $$P      d$&amp;#39;     ,    $$P     Resolution: 2560x1600&#xA;   $$:      $$.   -    ,d$$&amp;#39;     WM: Sommelier&#xA;   $$\;      Y$b._   _,d$P&amp;#39;      GTK Theme: CrosAdapta [GTK2/3]&#xA;   Y$$.    `.`&amp;#34;Y$$$$P&amp;#34;&amp;#39;          Font: Roboto 10&#xA;   `$$b      &amp;#34;-.__               Disk: 11G / 39G (28%)&#xA;    `Y$$                         CPU: 12th Gen Intel Core i5-1240P @ 16x 2.112GHz&#xA;     `Y$$.                       RAM: 798MiB / 14384MiB&#xA;       `$$b.                    &#xA;         `Y$$b.                 &#xA;            `&amp;#34;Y$b._             &#xA;                `&amp;#34;&amp;#34;&amp;#34;&amp;#34;           &#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Quotes</title>
+      <link>http://localhost:1313/posts/quotes/</link>
+      <pubDate>Fri, 13 Dec 2024 18:37:14 +0000</pubDate>
+      <guid>http://localhost:1313/posts/quotes/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“I believe that the extraordinary should certainly be pursued. But extraordinary claims require extraordinary evidence.”&lt;br&gt;&#xA;&lt;em&gt;- Carl Sagan, Broca’s Brain: Reflections on the Romance of Science&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.”&lt;br&gt;&#xA;&lt;em&gt;- Lucius Annaeus Seneca&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
       <title>Interesting Reads - 2024-11-04~2024-11-10</title>
       <link>http://localhost:1313/posts/2024-11-10-links1/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
