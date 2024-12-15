@@ -2,3 +2,45 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[params.ananke.social.share]
+networks = [
+  
+  "email",
+  "facebook",
+  "bluesky",
+  "x-twitter",
+  
+]
+
+[params.ananke.social.follow]
+networks = [
+ 
+  "facebook",
+  "bluesky",
+  "github",
+  "reddit",
+  "x-twitter",
+  "stackoverflow",
+]
+
+
+
+[params.ananke.social.facebook]
+username = "kellyjamestellez"
+# profilelink = "https://www.facebook.com/kellyjamestellez"
+
+[params.ananke.social.x-twitter]
+username = "Miblanco4"
+
+[params.ananke.social.bluesky]
+username = "don-gato.bsky.social"
+
+[params.ananke.social.github]
+username = "Don-Gato-Coded"
+
+[params.ananke.social.reddit]
+ username = "DonGatox"
+
+[params.ananke.social.stackoverflow]
+username = "1547229/elgatokjt"
