@@ -6,8 +6,22 @@
     <description>Recent content on The Blacklist</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2024 12:26:02 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 12:34:26 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programing tutorials</title>
+      <link>http://localhost:1313/posts/programing_tutorials/</link>
+      <pubDate>Tue, 17 Dec 2024 12:34:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/programing_tutorials/</guid>
+      <description>&lt;p&gt;These are some tutorials I have run through lately to keep my skill sharp / learn some new stuff during my Convalescence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mariadbtutotialcom&#34;&gt;mariadbtutotial.com&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;mariadb_tutorial-1.webp&#34; alt=&#34;mariadb tutorial&#34;&gt;&#xA;&lt;a href=&#34;https://www.mariadbtutorial.com/mariadb-basics/mariadb-select/&#34;&gt;mariadbtutotial.com/mariadb basics&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;lazyvim&#34;&gt;LazyVim&lt;/h2&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/N93cTbtLCIM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;LazyVim is a Neovim setup powered by 💤 lazy.nvim to make it easy to customize and extend your config.&#xA;Rather than having to choose between starting from scratch or using a pre-made distro, LazyVim offers the best of both worlds - the flexibility to tweak your config as needed, along with the convenience of a pre-configured setup.&#xA;&lt;a href=&#34;https://github.com/LazyVim/LazyVim&#34;&gt;LazyVim&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Detroit Tigers</title>
+      <link>http://localhost:1313/posts/2024-12-16-detroit_tigers/</link>
+      <pubDate>Mon, 16 Dec 2024 14:14:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-12-16-detroit_tigers/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.mlb.com/tigers&#34;&gt;mlb.com: tigers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.espn.com/mlb/team/_/name/det/detroit-tigers&#34;&gt;ESPN: Detroit Tigers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/tigers/&#34;&gt;Instagram: @tigers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.threads.net/@tigers&#34;&gt;Threads: @tigers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.blessyouboys.com/&#34;&gt;blessyouboys.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.freep.com/sports/tigers/&#34;&gt;freep: Detroit Tigers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.baseball-reference.com/teams/DET/index.shtml&#34;&gt;baseball-reference.com: Detroit Tigers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/ty-cobb.jpg&#34;&#xA;    alt=&#34;Ty Cobb and Johannes Honus Wagner&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Ty Cobb and Johannes Honus Wagner&lt;/h4&gt;&lt;p&gt;Sporting News Supplement photo insert for Ty Cobb and Johannes Honus Wagner, sometimes known as Hans Wagner. This photo is when Cobb played for the Detroit Tigers and Wagner played for the Pittsburgh Pirates.This work is licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-No Derivative Works 4.0 International License&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
@@ -41,7 +55,7 @@
       <link>http://localhost:1313/posts/quotes/</link>
       <pubDate>Fri, 13 Dec 2024 18:37:14 +0000</pubDate>
       <guid>http://localhost:1313/posts/quotes/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“I believe that the extraordinary should certainly be pursued. But extraordinary claims require extraordinary evidence.”&lt;br&gt;&#xA;&lt;em&gt;- Carl Sagan, Broca’s Brain: Reflections on the Romance of Science&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.”&lt;br&gt;&#xA;&lt;em&gt;- Lucius Annaeus Seneca&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+      <description>&lt;p&gt;This is a place for orphaned quotes. If I collect multiple quotes from a single person, they will be moved to their own post.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/8/8d/Carl_Sagan_Planetary_Society_cropped.png&#34; alt=&#34;Carl Sagen&#34; title=&#34;Carl Sagen&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“I believe that the extraordinary should certainly be pursued. But extraordinary claims require extraordinary evidence.”&lt;br&gt;&#xA;&lt;em&gt;— Carl Sagan, Broca’s Brain: Reflections on the Romance of Science&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/4/44/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg&#34; alt=&#34;Lucius Annaeus Seneca&#34; title=&#34;Seneca&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.”&lt;br&gt;&#xA;&lt;em&gt;— Lucius Annaeus Seneca&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interesting Reads - 2024-11-04~2024-11-10</title>

@@ -2,6 +2,11 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'The Blacklist'
 theme = 'ananke'
+metaDataFormat = "yaml"
+
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
 
 [pagination]                                                                                            
 pagerSize = 10 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -14,7 +19,9 @@ custom_css = ["custom.css"]
 description = "Crossed off every list."
 featured_image_class = "cover bg-top"
 recent_posts_number = 10
-featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+ignoreLogs = ['warning-goldmark-raw-html']
+contentDir = "content"
+
 
 
 [params.ananke.social.share]
