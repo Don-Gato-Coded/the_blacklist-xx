@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on The Blacklist</title>
+    <link>http://localhost:1313/tags/quotes/</link>
+    <description>Recent content in Quotes on The Blacklist</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 18:37:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quotes</title>
+      <link>http://localhost:1313/posts/quotes/</link>
+      <pubDate>Fri, 13 Dec 2024 18:37:14 +0000</pubDate>
+      <guid>http://localhost:1313/posts/quotes/</guid>
+      <description>&lt;p&gt;This is a place for orphaned quotes. If I collect multiple quotes from a single person, they will be moved to their own post.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/8/8d/Carl_Sagan_Planetary_Society_cropped.png&#34; alt=&#34;Carl Sagen&#34; title=&#34;Carl Sagen&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“I believe that the extraordinary should certainly be pursued. But extraordinary claims require extraordinary evidence.”&lt;br&gt;&#xA;&lt;em&gt;— Carl Sagan, Broca’s Brain: Reflections on the Romance of Science&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/4/44/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg&#34; alt=&#34;Lucius Annaeus Seneca&#34; title=&#34;Seneca&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.”&lt;br&gt;&#xA;&lt;em&gt;— Lucius Annaeus Seneca&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

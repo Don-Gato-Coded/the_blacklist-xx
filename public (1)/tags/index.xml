@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Blacklist</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on The Blacklist</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Dec 2024 16:36:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basketball</title>
+      <link>http://localhost:1313/tags/basketball/</link>
+      <pubDate>Wed, 18 Dec 2024 16:36:55 -0500</pubDate>
+      <guid>http://localhost:1313/tags/basketball/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Michigan</title>
+      <link>http://localhost:1313/tags/michigan/</link>
+      <pubDate>Wed, 18 Dec 2024 16:36:55 -0500</pubDate>
+      <guid>http://localhost:1313/tags/michigan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wolverines</title>
+      <link>http://localhost:1313/tags/wolverines/</link>
+      <pubDate>Wed, 18 Dec 2024 16:36:55 -0500</pubDate>
+      <guid>http://localhost:1313/tags/wolverines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Tue, 17 Dec 2024 12:34:26 -0500</pubDate>
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sql</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Tue, 17 Dec 2024 12:34:26 -0500</pubDate>
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Tue, 17 Dec 2024 12:34:26 -0500</pubDate>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>http://localhost:1313/tags/vim/</link>
+      <pubDate>Tue, 17 Dec 2024 12:34:26 -0500</pubDate>
+      <guid>http://localhost:1313/tags/vim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Baseball</title>
+      <link>http://localhost:1313/tags/baseball/</link>
+      <pubDate>Fri, 13 Dec 2024 19:09:56 +0000</pubDate>
+      <guid>http://localhost:1313/tags/baseball/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Football</title>
+      <link>http://localhost:1313/tags/football/</link>
+      <pubDate>Fri, 13 Dec 2024 19:09:56 +0000</pubDate>
+      <guid>http://localhost:1313/tags/football/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hockey</title>
+      <link>http://localhost:1313/tags/hockey/</link>
+      <pubDate>Fri, 13 Dec 2024 19:09:56 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hockey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>http://localhost:1313/tags/sports/</link>
+      <pubDate>Fri, 13 Dec 2024 19:09:56 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quotes</title>
+      <link>http://localhost:1313/tags/quotes/</link>
+      <pubDate>Fri, 13 Dec 2024 18:37:14 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quotes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+      <pubDate>Fri, 13 Dec 2024 18:37:14 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entertainment</title>
+      <link>http://localhost:1313/tags/entertainment/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/entertainment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/tags/links/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/links/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lions</title>
+      <link>http://localhost:1313/tags/lions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lions/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
