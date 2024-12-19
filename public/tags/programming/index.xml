@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on The Blacklist</title>
+    <link>http://localhost:1313/tags/programming/</link>
+    <description>Recent content in Programming on The Blacklist</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2024 12:34:26 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programing tutorials</title>
+      <link>http://localhost:1313/posts/programing_tutorials/</link>
+      <pubDate>Tue, 17 Dec 2024 12:34:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/programing_tutorials/</guid>
+      <description>&lt;p&gt;These are some tutorials I have run through lately to keep my skill sharp / learn some new stuff during my Convalescence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mariadbtutotialcom&#34;&gt;mariadbtutotial.com&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;mariadb_tutorial-1.webp&#34; alt=&#34;mariadb tutorial&#34;&gt;&#xA;&lt;a href=&#34;https://www.mariadbtutorial.com/mariadb-basics/mariadb-select/&#34;&gt;mariadbtutotial.com/mariadb basics&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;lazyvim&#34;&gt;LazyVim&lt;/h2&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/N93cTbtLCIM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;LazyVim is a Neovim setup powered by 💤 lazy.nvim to make it easy to customize and extend your config.&#xA;Rather than having to choose between starting from scratch or using a pre-made distro, LazyVim offers the best of both worlds - the flexibility to tweak your config as needed, along with the convenience of a pre-configured setup.&#xA;&lt;a href=&#34;https://github.com/LazyVim/LazyVim&#34;&gt;LazyVim&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

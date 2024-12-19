@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Blacklist</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on The Blacklist</description>
+    <title>Posts on The Blacklist</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The Blacklist</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Dec 2024 16:36:55 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Michigan Basketball Schedule 2024-2025</title>
       <link>http://localhost:1313/posts/michigan_baskball_games/</link>
@@ -49,13 +49,6 @@
       <pubDate>Fri, 13 Dec 2024 19:09:56 +0000</pubDate>
       <guid>http://localhost:1313/posts/2024-11-26-michigan_sports/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Chromebook</title>
-      <link>http://localhost:1313/2024-11-11-chromebook/</link>
-      <pubDate>Fri, 13 Dec 2024 18:37:14 +0000</pubDate>
-      <guid>http://localhost:1313/2024-11-11-chromebook/</guid>
-      <description>&lt;p&gt;After years as a dedicated mac person, going back to os9. I have moved over to a Chromebook / Pixel setup for daily driving&lt;/p&gt;&#xA;&lt;p&gt;I saved quite a bit of coin on the new Laptop and have a great Dev environment with Crostini.&lt;/p&gt;&#xA;&lt;h2 id=&#34;chromebook-stats&#34;&gt;Chromebook Stats&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Device: Acer Chromebook 516 GE&#xA;&lt;ul&gt;&#xA;&lt;li&gt;16-inch 120Hz QHD+ (2560 x 1600) IPS display&lt;/li&gt;&#xA;&lt;li&gt;Wi-Fi 6E&lt;/li&gt;&#xA;&lt;li&gt;16 GB, LPDDR4X&lt;/li&gt;&#xA;&lt;li&gt;Intel® Core™ i5-1240P processor Dodeca-core 1.70 GHz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;OS: Google ChromeOS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;linux-stuff&#34;&gt;Linux stuff&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linux Version: Linux penguin 6.6.46&lt;/li&gt;&#xA;&lt;li&gt;Shell: zsh / OhMyZsh&lt;/li&gt;&#xA;&lt;li&gt;Theme: powerlevel 10k&lt;/li&gt;&#xA;&lt;li&gt;PHP 8.2.24&lt;/li&gt;&#xA;&lt;li&gt;Python 3.11.2A&lt;/li&gt;&#xA;&lt;li&gt;git version 2.39.5&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;         _,met$$$$$gg.           blk@penguin&#xA;      ,g$$$$$$$$$$$$$$$P.        OS: Debian &#xA;    ,g$$P&amp;#34;&amp;#34;       &amp;#34;&amp;#34;&amp;#34;Y$$.&amp;#34;.      Kernel: x86_64 Linux 6.6.46-04024-g9e7e147b4900&#xA;   ,$$P&amp;#39;              `$$$.      Uptime: 3d 20h 50m&#xA;  &amp;#39;,$$P       ,ggs.     `$$b:    Packages: 646&#xA;  `d$$&amp;#39;     ,$P&amp;#34;&amp;#39;   .    $$$     Shell: zsh 5.9&#xA;   $$P      d$&amp;#39;     ,    $$P     Resolution: 2560x1600&#xA;   $$:      $$.   -    ,d$$&amp;#39;     WM: Sommelier&#xA;   $$\;      Y$b._   _,d$P&amp;#39;      GTK Theme: CrosAdapta [GTK2/3]&#xA;   Y$$.    `.`&amp;#34;Y$$$$P&amp;#34;&amp;#39;          Font: Roboto 10&#xA;   `$$b      &amp;#34;-.__               Disk: 11G / 39G (28%)&#xA;    `Y$$                         CPU: 12th Gen Intel Core i5-1240P @ 16x 2.112GHz&#xA;     `Y$$.                       RAM: 798MiB / 14384MiB&#xA;       `$$b.                    &#xA;         `Y$$b.                 &#xA;            `&amp;#34;Y$b._             &#xA;                `&amp;#34;&amp;#34;&amp;#34;&amp;#34;           &#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>Quotes</title>
