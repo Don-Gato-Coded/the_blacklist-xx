@@ -16,7 +16,7 @@ featured_image: "convert.webp"
 |  Nov 4 (Mon) 	|   8:00 PM  	|   Home  	|  Cleveland State  	|   Ann Arbor, Mich.   	|                                       	| W 101-53 	|
 | Nov 10 (Sun) 	|   1:00 PM  	| Neutral 	|    Wake Forest    	|   Greensboro, N.C.   	|       Deacon-Wolverine Challenge      	|  L 70-72 	|
 | Nov 15 (Fri) 	|   6:00 PM  	|   Home  	|        TCU        	|   Ann Arbor, Mich.   	|                                       	|  W 76-64 	|
-| Nov 18 (Mon) 	|   6:00 PM  	|   Home  	|    Miami (Ohio)   	|   Ann Arbor, Mich.   	| Fort Myers Tip-Off On-Campus Match-Up 	|  W 94-67 	|
+| Nov 18 (Mon) 	|   6:00 PM  	|   Home  	|    Miami (Ohio)   	|   Ann Arbor, Mich.   	|           Fort Myers Tip-Off  	        |  W 94-67 	|
 | Nov 21 (Thu) 	|   8:30 PM  	|   Home  	|   Tarleton State  	|   Ann Arbor, Mich.   	|                                       	|  W 72-49 	|
 | Nov 25 (Mon) 	|   6:00 PM  	| Neutral 	|   Virginia Tech   	|   Fort Myers, Fla.   	|           Fort Myers Tip-Off          	|  W 75-63 	|
 | Nov 27 (Wed) 	|   8:30 PM  	| Neutral 	|     #22 Xavier    	|   Fort Myers, Fla.   	|           Fort Myers Tip-Off          	|  W 78-53 	|
