@@ -7,7 +7,6 @@ params:
   author: DonGato
 tags: Tech
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-
 ---
 
   After years as a dedicated mac person, going back to os9. I have moved over to a Chromebook / Pixel setup for daily driving
