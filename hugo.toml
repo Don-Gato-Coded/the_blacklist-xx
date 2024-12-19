@@ -7,6 +7,15 @@ metaDataFormat = "yaml"
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 20
 
 [pagination]                                                                                            
 pagerSize = 10 # this is set low for demonstrating with dummy content. Set to a higher number
