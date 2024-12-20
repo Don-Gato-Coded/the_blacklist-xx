@@ -23,7 +23,7 @@ featured_image: "convert.webp"
 |  Dec 3 (Tue) 	| 8:00 PM CT 	|   Away  	|   #11 Wisconsin   	|     Madison, Wis.    	|                                       	|  W 67-64 	|
 |  Dec 7 (Sat) 	|   2:00 PM  	|   Home  	|        Iowa       	|   Ann Arbor, Mich.   	|                                       	|  W 85-83 	|
 | Dec 10 (Tue) 	|   9:00 PM  	| Neutral 	|      Arkansas     	|    New York, N.Y.    	|            Jimmy V Classic            	|  L 87-89 	|
-| Dec 18 (Wed) 	|   9:00 PM  	| Neutral 	|    #14 Oklahoma   	|    Charlotte, N.C.   	|          Jumpman Invitational         	|     -    	|
+| Dec 18 (Wed) 	|   9:00 PM  	| Neutral 	|    #14 Oklahoma   	|    Charlotte, N.C.   	|          Jumpman Invitational         	|  L 86-87  |
 | Dec 22 (Sun) 	|   1:00 PM  	|   Home  	| Purdue Fort Wayne 	|   Ann Arbor, Mich.   	|                                       	|     -    	|
 | Dec 29 (Sun) 	|   8:00 PM  	|   Home  	|  Western Kentucky 	|   Ann Arbor, Mich.   	|                                       	|     -    	|
 |  Jan 4 (Sat) 	| 5:00 PM PT 	|   Away  	|        USC        	|  Los Angeles, Calif. 	|                                       	|     -    	|
@@ -45,4 +45,12 @@ featured_image: "convert.webp"
 |  Mar 5 (Wed) 	|   6:30 PM  	|   Home  	|      Maryland     	|   Ann Arbor, Mich.   	|                                       	|     -    	|
 |  Mar 9 (Sun) 	|    Noon    	|   Away  	|   Michigan State  	|  East Lansing, Mich. 	|                                       	|     -    	|
 
-[Michigan mens basketball schedule](https://mgoblue.com/sports/mens-basketball/schedule/text)
+
+### Michigan vs Oklahoma
+
+
+{{< figure src="oklahoma-vs-michigan.webp" title="Oklahoma vs Michigan - Jumpman Invitational" caption=" Oklahoma edged 24th-ranked Michigan 87-86 on Wednesday night in a wild finish at the Jumpman Invitational. Fears finished with 30 points on 8-of-12 shooting as the Sooners (11-0) remained unbeaten. Duke Miles had 17 points, including two big 3s in the second half." alt="Two baseball players shaking hands" width="600px" >}}
+
+- [Michigan-basketball-score-vs-Oklahoma-jumpman-invitational - Freep](https://www.freep.com/story/sports/college/university-michigan/wolverines/2024/12/18/michigan-basketball-score-vs-oklahoma-jumpman-invitational-87-86/77078007007/)
+- [ Game 11: Michigan vs. Oklahoma Recap](https://umhoops.com/2024/12/19/game-11-michigan-vs-oklahoma-recap/)
+- [Takeaways from Michigan’s loss to Oklahoma in the Jumpman Invitational](https://www.maizenbrew.com/2024/12/18/24324137/michigan-basketball-takeaways-oklahoma-jumpman-vlad-goldin-danny-wolf-roddy-gayle-jr-tre-donaldson)
