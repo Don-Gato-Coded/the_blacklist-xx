@@ -18,24 +18,25 @@ ignoreLogs = ['warning-goldmark-raw-html']
     weight = 20
 
 [pagination]                                                                                            
-pagerSize = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [params]
 background_color_class = "bg-black"
-text_color = ""
-body_classes = ""
+text_color = "gold"
 custom_css = ["custom.css"]
 description = "Crossed off every list."
 featured_image_class = "cover bg-top"
 recent_posts_number = 10
 ignoreLogs = ['warning-goldmark-raw-html']
 contentDir = "content"
+body_classes = "avenir bg-near-black"
 
 
 
 [params.ananke.social.share]
 networks = [
-  
+
+
   "email",
   "facebook",
   "bluesky",

@@ -2,7 +2,7 @@
 date: '2024-12-18T16:36:55-05:00'
 draft: false
 title: 'Michigan Basketball Schedule 2024-2025'
-tags: [michigan, basketball, wolverines,]
+tags: [michigan, basketball, wolverines]
 featured_image: "convert.webp"
 
 ---

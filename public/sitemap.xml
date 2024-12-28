@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/astronomy/</loc>
+    <lastmod>2024-12-21T13:34:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-21T13:34:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-21T13:34:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-21T13:34:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/threads/</loc>
+    <lastmod>2024-12-21T13:34:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-12-21-threads-astronomy/2024-12-21-threads-astronomy/</loc>
+    <lastmod>2024-12-21T13:34:42-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/basketball/</loc>
     <lastmod>2024-12-18T16:36:55-05:00</lastmod>
   </url><url>
@@ -9,15 +27,6 @@
     <lastmod>2024-12-18T16:36:55-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/michigan_baskball_games/</loc>
-    <lastmod>2024-12-18T16:36:55-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-18T16:36:55-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-18T16:36:55-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-18T16:36:55-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wolverines/</loc>
