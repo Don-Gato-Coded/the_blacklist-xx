@@ -7,8 +7,7 @@ author: DonGato
 {{< figure src="images/tree.jpg" 
     title="Campus Martius Christmas tree" 
     caption="[@colindetroit](https://www.threads.net/@colindetroit/post/DENvQFuvB2J?xmt=AQGz0JE-IPkNiLutA5p-BX01OczQYotBywJRBG5VNQ0oNw)"  
-    width="600px" >}}  
-
+    width="600px" >}} 
 
 {{< figure 
     src="images/fish.jpg" 
