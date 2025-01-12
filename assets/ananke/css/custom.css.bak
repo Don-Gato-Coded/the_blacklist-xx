@@ -1,0 +1,4 @@
+ h1, h2, h3 {color: black;}
+ time {color: white;}
+ p, table {color: goldenrod;}
+ article > div {color: white;}

@@ -21,15 +21,15 @@ ignoreLogs = ['warning-goldmark-raw-html']
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [params]
-background_color_class = "bg-black"
-text_color = "gold"
-custom_css = ["custom.css"]
+# background_color_class = "bg-black"
+ text_color = "gold"
+# custom_css = ["custom.css"]
 description = "Crossed off every list."
 featured_image_class = "cover bg-top"
 recent_posts_number = 3
 ignoreLogs = ['warning-goldmark-raw-html']
 contentDir = "content"
-body_classes = "avenir bg-near-black"
+# body_classes = "avenir bg-near-black"
 
 
 
